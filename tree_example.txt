@@ -1,0 +1,93 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 8887-F31C
+C:.
+³   .gitignore
+³   .welcome_letter.md.un~
+³   clean.bat
+³   cpsc1301syllabus2021Fall.html
+³   cpsc1301syllabus2021Fall.pdf
+³   README.md
+³   tree_example.txt
+³   welcome_letter.md
+³   welcome_letter.md~
+³   
+ÃÄÄÄCodePostLabs
+³       1301Exercises06.pdf
+³       1301PracticeAssignments01.pdf
+³       1301PracticeAssignments02.pdf
+³       1301PracticeAssignments03.pdf
+³       1301PracticeAssignments04.pdf
+³       1301PracticeAssignments05.pdf
+³       1301PracticeAssignments06.pdf
+³       1301PracticeAssignments07.pdf
+³       1301PracticeAssignments08.pdf
+³       Project3-CPSC1301.pdf
+³       Project4-CPSC1301K.pdf
+³       Project5-CPSC1301K.pdf
+³       
+ÃÄÄÄExercises
+³       cpsc1301ex01.pdf
+³       cpsc1301ex02.pdf
+³       cpsc1301ex03.pdf
+³       cpsc1301ex04.pdf
+³       cpsc1301ex05.pdf
+³       cpsc1301ex06.pdf
+³       cpsc1301ex07.pdf
+³       cpsc1301ex08.pdf
+³       cpsc1301ex09.pdf
+³       cpsc1301ex10.pdf
+³       cpsc1301ex11.pdf
+³       cpsc1301ex13.pdf
+³       cpsc1301ex15.pdf
+³       pres-test.csv
+³       
+ÃÄÄÄHomework
+³       cpsc1301hw01.pdf
+³       cpsc1301hw02.pdf
+³       cpsc1301hw03.pdf
+³       cpsc1301hw04.pdf
+³       cpsc1301hw05.pdf
+³       cpsc1301hw06.pdf
+³       cpsc1301hw07.pdf
+³       cpsc1301hw08.pdf
+³       cpsc1301hw09.pdf
+³       cpsc1301hw10.pdf
+³       cpsc1301hw11.pdf
+³       cpsc1301hw12.pdf
+³       cpsc1301hw13.pdf
+³       cpsc1301hw14.pdf
+³       
+ÃÄÄÄLabs
+³       cpsc1301lab-ch00.pdf
+³       cpsc1301lab-ch05.pdf
+³       cpsc1301lab-ch06.pdf
+³       cpsc1301lab-ch07.pdf
+³       cpsc1301lab-ch08.pdf
+³       cpsc1301lab-ch09.pdf
+³       cpsc1301lab-ch10.pdf
+³       cpsc1301lab-ch12.pdf
+³       cpsc1301lab-ch14.pdf
+³       cpsc1301lab01a.pdf
+³       cpsc1301lab01b.pdf
+³       cpsc1301lab02a.pdf
+³       cpsc1301lab02b.pdf
+³       cpsc1301lab02bsolutions.pdf
+³       cpsc1301lab03a.pdf
+³       cpsc1301lab03b.pdf
+³       cpsc1301lab03bsolutions.pdf
+³       cpsc1301lab04a.pdf
+³       cpsc1301lab04b.pdf
+³       cpsc1301lab04bsolutions.pdf
+³       cpsc1301lab05b.pdf
+³       cpsc1301lab05bsolutions.pdf
+³       cpsc1301lab06b.pdf
+³       cpsc1301lab06bsolutions.pdf
+³       cpsc1301lab07bsolutions.pdf
+³       Lab1aDeliverable.txt
+³       
+ÃÄÄÄPythonPrograms
+³       FirstProgram.py
+³       
+ÀÄÄÄQuizzes
+        cpsc1301quiz01a.pdf
+        
