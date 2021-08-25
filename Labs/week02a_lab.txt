@@ -1,0 +1,83 @@
+WEEK 02A LAB
+
+######################
+# week2_1_carter.p7
+
+print("hello world")
+
+
+######################
+# week2_2_carter.py
+
+name = "The Grinch"
+print(name)
+
+
+######################
+# week2_3_carter.py
+
+cimeon = 21
+nat = 19
+total = nat + cimeon
+print(total)
+
+
+######################
+# week2_4_carter.py
+
+print("Enter a number: ")
+x = int(input())
+print("Enter another number")
+y = int(input())
+#product = x * y
+print("The product of", x, "and", y, "is", x * y)
+
+
+######################
+# week2_5_carter.py
+
+def raven():
+    print("hello Raven")
+    
+raven()
+
+
+######################
+# week2_6_carter.py
+
+def kiara(name):
+    print("hello", name)
+    
+print("Please enter your name:")
+x = input()
+kiara(x)
+
+
+######################
+# week2_7_carter.py
+
+#write a function that returns a values
+def george():
+    print("Please enter your first name: ", end = '')
+    fname = input()
+    print("Please enter you last name: ", end = '')
+    lname = input()
+    fullname = fname + " " + lname
+    return fullname
+    
+jenny = george()
+print(jenny)
+print("==============")
+print(george())
+
+
+######################
+# week2_8_carter.py
+
+# function that accepts input and returns a values
+def afun(fname, lname):
+    fullname = fname + " " + lname
+    return fullname
+    
+alias = afun("Charles", "Carter")
+print(alias)
