@@ -62,7 +62,8 @@ def add(ntup):
     correct = 0
     for i in range(1, n+1):
         lhs, rhs = get_rand_nums(top)
-        print("{0}. What is {1} + {2}? ".format(i, lhs, rhs))
+        #print("{0}. What is {1} + {2}? ".format(i, lhs, rhs))
+        print("%d. What is %d + %d? " % (i, lhs, rhs))
         answer = int(input())
         if answer == (lhs + rhs):
             print("Correct")
