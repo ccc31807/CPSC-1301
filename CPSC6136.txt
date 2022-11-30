@@ -1,0 +1,61 @@
+
+Conversation opened. 1 read message.
+
+Skip to content
+Using Columbus State University Mail with screen readers
+in:sent 
+
+3 of 514
+CPSC6136 final paper, status
+
+Charles Carter [Student] <carter_charles@columbusstate.edu>
+Attachments
+Mon, Nov 28, 8:47 PM (2 days ago)
+to Adrian, Chukwuemeka
+
+Here are the notes from Prof Ray. I have highlighted in yellow those items that need our individual attention. I have also attached the latest draft, dated November 28. When you send me your edits, please use these line numbers.
+
+I have attempted to write the Introduction and Conclusion. Comments would be appreciated.
+
+Adrian will complete the section on Cybersecurity Implications.
+
+Chuk will complete the section on Code including technical means (section 5.4).
+
+Let's meet Thursday evening at 9:00 p.m. to complete the paper and turn it in.
+
+Under section 4.1, where you discussed Facebook's policies, 3rd and 4th paragraphs are on Twitter. I think this subsection requires a good bit of revision.
+Chuk need to revise
+==================================================================
+When you discuss the policies related to hate speech, mention how each platform enforces their policies. If a platform has only policies, but no way of enforcing it, then mention that too.
+Each of us needs to revise his section.
+===================================================================
+Under section 4.5, where you discussed twitter policies, you mainly focused on spam. Does Twitter not have any specific policies on hate speech? If not, how does controlling spam control hate speeches, in your opinion?
+Chuk needs to revise
+====================================================================
+In section 5, you have discussed the first amendment of the US. There is one important point about the 1st amendment that people often overlook. The 1st amendment is limited to protections against free speech limitations by the government. Social media platforms are private entities and hence do not strictly fall under the 1st amendment.   Please make sure that in your analysis, this point is clearly reflected. Read this:  Please read this: https://accessiblelaw.untdallas.edu/limits-free-speech-social-media
+Charles needs to revise
+=====================================================================
+There are several typos that caught my eyes. You need to revise the document carefully.
+Each of us needs to revise his section.
+=====================================================================
+While you have done a great job of researching so many social media platforms, the content is too large for a term paper. If you think there's not enough time to complete this, I will suggest you focus on only 2-3 social media platforms and limit your discussions only on those.  It will be great if you can provide a comparison of the policies in a tabular format. Make a list of a few features that, in your opinion, are important to control hate speech.  An example is given here. You can add more rows.
+
+
+
+
+FORMAT FOR REFERENCES
+\bibitem{namedate}
+authors
+title
+source
+pubdate
+
+\bibitem{spencer2018}
+    Spencer, Robert,
+        \textit{The History of Jihad: From Muhammad to ISIS},
+        ISBN: 978-1682616598,
+        Bombardier Books,
+        2018.
+
+ One attachment
+  •  Scanned by Gmail
